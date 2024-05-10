@@ -19,3 +19,6 @@ Applica stili differenti agli elementi aggiunti al DOM nel BONUS 1, a seconda ch
 3 verifico i multipli di 5 (divido il numero per 5 e controllo il resto, se è 0 allora il numero è multiplo di 5)
 4 verifico i multipli di 3 e 5 (verifico se il numero da uno a 100 sia multiplo sia di 3 che di 5 dividendolo per essi, poi usando && controllo che entrambe le condizioni siano true)
 5 stampo risultato in console 
+
+
+(prima verifico il punto 4 poi il punto 3 e 2)*
